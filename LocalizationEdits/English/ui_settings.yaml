@@ -1,0 +1,3 @@
+edits:
+  game_combat_update_popup__header: Show update popup
+  game_combat_update_popup__text: Display update log in upper right corner during combat.
